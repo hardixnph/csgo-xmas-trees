@@ -9,3 +9,4 @@ Usage:
 - !del - point your crosshair to the base of the tree to delete it.
 
 All credits goes to the author mentioned in the plugin source code.
+https://forums.alliedmods.net/showthread.php?t=303402
